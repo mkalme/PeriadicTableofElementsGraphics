@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+	<row order="1">
+    <elem>
+      <attribute name="Atomic Number" font="Arial, 12pt" location="0.5; 0.4">1</attribute>
+      <attribute name="Symbol" font="Arial, 12pt" location="0.5; 0.4">H</attribute>
+      <attribute name="Name" font="Arial, 12pt" location="0.5; 0.4">Hydrogen</attribute>
+      <attribute name="Atomic Mass" font="Arial, 12pt" location="0.5; 0.4">1.0</attribute>
+    </elem>
+	</row>
+</root>
